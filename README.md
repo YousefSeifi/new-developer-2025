@@ -9,6 +9,7 @@ I have some experience in coding and problem-solving, I like learning,and I have
 
 
   Skills
+  
     JavaScript (ES6) 
     TypeScript 
     React   
