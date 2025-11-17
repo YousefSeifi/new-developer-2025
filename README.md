@@ -8,7 +8,7 @@ I have some experience in coding and problem-solving, I like learning,and I have
 من تجربه‌ای در برنامه‌نویسی و حل مسئله دارم، به یادگیری علاقه‌مندم و دانش کافی از مفاهیم پایه JavaScript دارم تا بتوانم پروژه‌های متنوعی بسازم، کار تیمی را فرصتی برای همکاری با دیگران می‌دانم و چالش‌های پروژه را به‌عنوان فرصت‌های ارزشمند برای ارتقای دانش و مهارت‌هایم می‌بینم.
 
 
-  Skills: 
+  Skills
     JavaScript (ES6) 
     TypeScript 
     React   
