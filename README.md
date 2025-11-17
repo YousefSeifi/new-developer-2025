@@ -1,16 +1,21 @@
+# portfolio 
 ## Hi there 👋
+#### frontend developer
+![frontend developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**new-developer-2025/new-developer-2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I am Yousef Seifi, a front-end developer passionate about building responsive and interactive web applications. I enjoy using real projects as a way to challenge myself and learn new technologies for my skill development.
 
-Here are some ideas to get you started:
+Skills: JavaScript (ES6) TypeScript React   Hooks   Redux   React Router   Axios HTML CSS (Sass, Tailwind, Bootstrap, MUI) Version Control Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/new-developer-2025)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/yousefseifi/)  
+
+<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=new-developer-2025)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=new-developer-2025&show_icons=true)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=new-developer-2025)  
+
