@@ -5,7 +5,16 @@
 
 Hi! I am Yousef Seifi, a front-end developer passionate about building responsive and interactive web applications. I enjoy using real projects as a way to challenge myself and learn new technologies for my skill development.
 
-Skills: JavaScript (ES6) TypeScript React   Hooks   Redux   React Router   Axios HTML CSS (Sass, Tailwind, Bootstrap, MUI) Version Control Systems
+Skills: 
+JavaScript (ES6) 
+TypeScript 
+React   
+  Hooks  
+  Redux   
+  React Router   
+  Axios 
+HTML CSS (Sass, Tailwind, Bootstrap, MUI) 
+Git (Version Control Systems)
 
 - 🔭 I’m currently working on this page. 
 
