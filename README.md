@@ -9,24 +9,37 @@ I have some experience in coding and problem-solving, I like learning,and I have
 
 
   Skills
-  
-    JavaScript (ES6) 
-    TypeScript 
-    React   
-      Hooks  
-      Redux   
-      React Router   
-      Axios 
-      HTML CSS (Sass, Tailwind, Bootstrap, MUI) 
-      Git (Version Control Systems)
+- **JavaScript (ES6)**
+- **TypeScript**
+- **React**
+  - Hooks
+  - Redux
+  - React Router
+  - Axios
+- **Next.js**
+  - Server-side Rendering (SSR)
+  - Static Site Generation (SSG)
+  - API Routes
+  - Next.js Routing
+  - **Authentication** (JWT, NextAuth.js)
+  - **Caching & Performance Optimization** (ISR, SWR, React Query)
+- **HTML & CSS**
+  - Sass
+  - Tailwind CSS
+  - Bootstrap
+  - MUI
+- **Git (Version Control Systems)**
+- **Leaflet.js**
+
+      
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/yousefseifi/)  
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=new-developer-2025)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YousefSeifi)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=new-developer-2025&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YousefSeifi&show_icons=true)  
 
 
 
